@@ -1,0 +1,4 @@
+Genome Name,Length of genome file,Match Percentage for read length-6 : [ATGCAT],Match Percentage for read length-5 : [ATGCA],Match Percentage for read length-4 : [ATGC],Analysis of time complexity
+Feline_Leukemia,8569,0.0233,0.105,0.2217,BM
+Bovine_Leukemia,8540,0.0,0.0234,0.3747,BM
+Abelson_Murine_Leukemia,5978,0.0,0.0167,0.2007,BM

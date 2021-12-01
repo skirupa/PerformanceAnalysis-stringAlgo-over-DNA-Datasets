@@ -1,0 +1,4 @@
+Genome Name,Length of genome file,Match Percentage for read length-6 : [ATGCAT],Match Percentage for read length-5 : [ATGCA],Match Percentage for read length-4 : [ATGC],Analysis of time complexity
+HIV1,2608,0.0767,0.115,0.3451,BM
+HIV1_1,2632,0.076,0.152,0.3799,BM
+HIV1_2,1525,0.0656,0.2623,0.3279,BM
